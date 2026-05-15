@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/discord-e65c3a?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <br>
-  <a href="https://www.tiktok.com/astrafe1n">
+  <a href="https://www.tiktok.com/@astrafe1n">
     <img src="https://img.shields.io/badge/tiktok-e65c3a?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
 </p>
