@@ -43,14 +43,21 @@
 <br>
 <p align="center">
   <a href="https://t.me/info1nikki">
-    <img src="https://img.shields.io/badge/telegram-e65c3a?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000">
   </a>
   <br>
   <a href="https://discord.com/users/xwertiiy">
-    <img src="https://img.shields.io/badge/discord-e65c3a?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000">
   </a>
   <br>
   <a href="https://www.tiktok.com/@astrafe1n">
-    <img src="https://img.shields.io/badge/tiktok-e65c3a?style=for-the-badge&logo=tiktok&logoColor=white">
+    <img src="https://img.shields.io/badge/tiktok-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=000000">
   </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=N11KK1&label=Profile%20Views&color=000000&style=for-the-badge"
+    alt="profile views"
+  />
 </p>
