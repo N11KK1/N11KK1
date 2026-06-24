@@ -53,7 +53,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=N11KK1&label=Profile%20Views&color=000000&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=N11KK1&label=✧&color=B0C4DE&style=for-the-badge"
     alt="profile views"
   />
 </p>
