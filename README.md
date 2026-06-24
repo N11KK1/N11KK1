@@ -1,55 +1,58 @@
-<p align="center">
-  <img src="banner.png" width="100%">
+ <img src="banner3.png" width="100%">
+<p align="center">𝚜𝚎𝚎 𝚑𝚘𝚠 𝚝𝚑𝚎 𝚋𝚛𝚊𝚒𝚗 𝚙𝚕𝚊𝚢𝚜 𝚊𝚛𝚘𝚞𝚗𝚍.</p>
+<p align="center">𝚊𝚗𝚍 𝚢𝚘𝚞 𝚏𝚊𝚕𝚕 𝚒𝚗𝚜𝚒𝚍𝚎 𝚊 𝚑𝚘𝚕𝚎 𝚢𝚘𝚞 𝚌𝚘𝚞𝚕𝚍𝚗'𝚝 𝚜𝚎𝚎</p>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-</p>
-<p align="center">s𝚝𝚒𝚌𝚔 𝚠𝚒𝚝𝚑 𝚖𝚎, 𝚢𝚘𝚞'𝚕𝚕 𝚏𝚒𝚗𝚍 𝚢𝚘𝚞𝚛 𝚙𝚞𝚛𝚙𝚘𝚜𝚎 𝚒𝚜 𝚗𝚎𝚊𝚛.</p>
+  <p align="center">⌒ ⌒   ⭑  ⌒ ⌒  ꒰  ⭑  ꒱  ⌒ ⌒ ⭑ ⌒ ⌒</p>
+<table>
+<tr>
+ <img align="right" src="banner1.png" width="600">
+✦ 𝙖𝙗𝙤𝙪𝙩 𝙢𝙚<br>
 
-
+> 𝙣𝙞𝙠𝙠𝙞<br>
+> 𝟭𝟴 𝙮.𝙤. | 𝙗𝙙𝙖𝙮 𝟯𝟭.𝟭𝟮. <br>
+> 𝙨𝙥𝟳𝙨𝙤𝟮𝙨𝙥𝟴 | 𝟳𝙬𝟴<br>
+> 𝙀𝙉𝙁𝙋<br>
+> 𝙨𝙖𝙣𝙦𝙪𝙞𝙣𝙚-𝙢𝙚𝙡𝙖𝙣𝙘𝙝𝙤𝙡𝙞𝙘 <br>
+> 𝙑𝙀𝙇𝙁 | 𝙄𝙀𝙀<br>
+<br>
 <p align="center">୨୧   ⎯    ┈   ʚ   ✧   ɞ    ┈    ⎯   ୨୧</p>
-<h2 align="right">A𝐛𝐨𝐮𝐭 M𝐞:</h2>
+<br>
+✦ 𝙢𝙖𝙞𝙣 𝙛𝙖𝙣𝙙𝙤𝙢𝙨<br>
 
-<div class="about-container">
-<img src="about.png" class="about-img" width="50%" align="left">
-<div class="about-text" align="right">
-𝐧𝐢𝐤𝐤𝐢<br>
+> 𝙗𝙨𝙙, 𝙯𝙚𝙣𝙤 𝙧𝙚𝙢𝙖𝙠𝙚, 𝙝𝙚𝙡𝙡𝙤 𝙘𝙝𝙖𝙧𝙡𝙤𝙩𝙩𝙚, 𝙤𝙢𝙤𝙧𝙞, 𝙨𝙝𝙩𝙙𝙣, 𝙮𝙩𝙩𝙙, 𝙗𝙖𝙘𝙠𝙧𝙤𝙤𝙢𝙨, 𝙧𝙤𝙗𝙡𝙤𝙭(𝙥𝙧𝙚𝙨𝙨𝙪𝙧𝙚, 𝙙𝙖𝙣𝙙𝙮 𝙬𝙤𝙧𝙡𝙙, 𝙛𝙤𝙧𝙨𝙖𝙠𝙚𝙣, 𝙡𝙚𝙩 𝙝𝙞𝙢 𝙜𝙤, 𝙙𝙪𝙖𝙡𝙞𝙩𝙮, 𝙣𝙪𝙡𝙡𝙨𝙘𝙖𝙥𝙚, 𝙜𝙧𝙖𝙘𝙚, ^_^, 𝙟𝙞𝙢𝙨 𝙘𝙤𝙢𝙥𝙪𝙩𝙚𝙧, 𝙙𝙚𝙭𝙨 𝙥𝙖𝙧𝙩𝙮, 𝙗𝙖𝙙 𝙩𝙝𝙞𝙣𝙜𝙨, 𝙖𝙣𝙞𝙢𝙖𝙡 𝙝𝙤𝙨𝙥𝙞𝙩𝙖𝙡, 𝙢.𝙚.𝙜., 𝙙𝙧𝙖𝙬𝙣𝙤𝙪𝙩, 𝙗𝙧𝙤𝙠𝙚𝙣 𝙙𝙧𝙚𝙖𝙢, 𝙥𝙞𝙯𝙯𝙖 𝙜𝙖𝙢𝙚), 𝙩𝙝𝙚 𝙨𝙪𝙢𝙢𝙚𝙧 𝙝𝙞𝙠𝙖𝙧𝙪 𝙙𝙞𝙚𝙙, 𝙢𝙞𝙣𝙚𝙘𝙧𝙖𝙛𝙩, 𝙩𝙖𝙙𝙘, 𝙜𝙚𝙣𝙨𝙝𝙞𝙣.<br>
 <br>
-𝐛𝐢𝐫𝐭𝐡𝐝𝐚𝐲 𝟑𝟏.𝟏𝟐<br>
+<p align="center">୨୧   ⎯    ┈   ʚ   ✧   ɞ    ┈    ⎯   ୨୧</p>
 <br>
-𝐄𝐍𝐅𝐏 • 𝟕𝐰𝟖 • 𝐬𝐩𝟕𝐬𝐨𝟐𝐬𝐩𝟖<br>
+✦ 𝙙𝙣𝙞<br>
+
+> 𝟭𝟰 𝙮.𝙤., 𝙧𝙖𝙘𝙞𝙨𝙢, 𝙝𝙤𝙢𝙤𝙥𝙝𝙤𝙗𝙞𝙖, 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 -𝙥𝙝𝙞𝙡𝙞𝙖, 𝙖𝙗𝙡𝙚𝙞𝙨𝙩𝙨<br>
 <br>
-𝐦𝐚𝐢𝐧 𝐟𝐝: 𝐛𝐬𝐝, 𝐫𝐨𝐛𝐥𝐨𝐱, 𝐡𝐞𝐥𝐥𝐨 𝐜𝐡𝐚𝐫𝐥𝐨𝐭𝐭𝐞, 𝐨𝐦𝐨𝐫𝐢, 𝐳𝐞𝐧𝐨 𝐫𝐞𝐦𝐚𝐤𝐞<br>
+<p align="center">୨୧   ⎯    ┈   ʚ   ✧   ɞ    ┈    ⎯   ୨୧</p>
 <br>
-𝐫𝐮 / 𝐞𝐧 / 𝐝𝐞 / 𝐮𝐚<br>
+
+✦ 𝙗𝙮𝙞<br>
+> 𝙞 𝙝𝙖𝙫𝙚 𝙤𝙨𝙙𝙙. 𝙞𝙩 𝙘𝙖𝙣 𝙖𝙛𝙛𝙚𝙘𝙩 𝙢𝙚𝙢𝙤𝙧𝙮, 𝙚𝙢𝙤𝙩𝙞𝙤𝙣𝙨, 𝙖𝙣𝙙 𝙞𝙙𝙚𝙣𝙩𝙞𝙩𝙮. 𝙞𝙛 𝙩𝙝𝙖𝙩’𝙨 𝙖 𝙥𝙧𝙤𝙗𝙡𝙚𝙢, 𝙙𝙤 𝙣𝙤𝙩 𝙞𝙣𝙩𝙚𝙧𝙖𝙘𝙩.<br>
+ </tr>
+    </table>
+<div align="right">
+  <p align="center">⌒ ⌒   ⭑  ⌒ ⌒  ꒰  ⭑  ꒱  ⌒ ⌒ ⭑ ⌒ ⌒</p>
 </div>
-  
-<br>
+<p align="center">𝚊𝚗𝚍 𝚢𝚘𝚞 𝚏𝚊𝚕𝚕 𝚒𝚗𝚜𝚒𝚍𝚎 𝚊 𝚑𝚘𝚕𝚎 𝚒𝚗𝚜𝚒𝚍𝚎 𝚊-</p>
+<p align="center">𝚜𝚘𝚖𝚎𝚘𝚗𝚎 𝚑𝚎𝚕𝚙 𝚖𝚎</p>
+<p align="center">𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍 𝚠𝚑𝚊𝚝′𝚜 𝚐𝚘𝚒𝚗𝚐 𝚘𝚗 𝚒𝚗𝚜𝚒𝚍𝚎 𝚖𝚢 𝚖𝚒𝚗𝚍</p>
 
-</div>
-
-<br>
-
-<br>
-<p align="center">
-  <i>
-    𝚊𝚗𝚍 𝚒𝚝'𝚜 𝚏𝚊𝚛
-  </i>
-</p>
-<p align="center">
-  <i>
-    𝚒𝚝 𝚠𝚘𝚗'𝚝 𝚖𝚊𝚝𝚝𝚎𝚛 𝚊𝚗𝚢𝚖𝚘𝚛𝚎
-  </i>
-</p>
-
+<table>
+<tr>
+<p align="center"> ᴹⁱʳᵃᶜˡᵉ ᴹᵘˢⁱᶜᵃˡ ⁻ ᵀʰᵉ ᴹⁱⁿᵈ ᴱˡᵉᶜᵗʳⁱᶜ</p>
+  </tr>
+    </table>
 <br>
 <p align="center">
   <a href="https://t.me/info1nikki">
     <img src="https://img.shields.io/badge/telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000">
-  </a>
-  <br>
-  <a href="https://discord.com/users/xwertiiy">
-    <img src="https://img.shields.io/badge/discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000">
-  </a>
-  <br>
+  <a href="https://www.tiktok.com/@astrafe1n">
+    <img src="https://img.shields.io/badge/tiktok-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=000000">
   <a href="https://www.tiktok.com/@astrafe1n">
     <img src="https://img.shields.io/badge/tiktok-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=000000">
   </a>
