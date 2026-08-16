@@ -24,7 +24,7 @@
  <p align="center"><br>
   <a href="https://t.me/info1nikki">
  <img src="https://img.shields.io/badge/-000000?style=flat&logo=telegram&logoColor=white" width="10%">
-  <a href="https://discord.com/xwertiiy">
+  <a href="https://discordapp.com/users/xwertiiy">
  <img src="https://img.shields.io/badge/-000000?style=flat&logo=discord&logoColor=white" width="10%">
    <a href="https://www.tiktok.com/@n11kk1">
  <img src="https://img.shields.io/badge/-000000?style=flat&logo=tiktok&logoColor=white" width="10%">
