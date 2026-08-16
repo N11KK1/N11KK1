@@ -19,7 +19,6 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
  <img align="left" src="banner2.png" width="50%">
   <br>
-  <br>
  <p align="center">୨୧   ⎯    ┈   ʚ   ✧   ɞ    ┈    ⎯   ୨୧</p>
  <p align="center"><br>
   <a href="https://t.me/info1nikki">
