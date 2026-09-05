@@ -1,6 +1,6 @@
  <img align="left" src="banner3.png" width="100%">
 <h2 align="center">⌒ ⌒   ⭑  ⌒ ⌒  ꒰  ⭑  ꒱  ⌒ ⌒ ⭑ ⌒ ⌒</h2>
- <img align="left" src="banner4.png" width="40%">
+ <img align="left" src="banner4.png" width="45%">
 <p align="center"</p>
 𝙣𝙞𝙠𝙠𝙞 | 𝟭𝟴 𝙮.𝙤. | 𝙗𝙙𝙖𝙮 𝟯𝟭.𝟭𝟮.<br>
 𝚛𝚞 | 𝚞𝚊 | 𝚍𝚎 | 𝚎𝚗<br>
