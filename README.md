@@ -15,12 +15,11 @@
 <a href="https://nikk1.atabook.org">𝘢𝘵𝘢</a>.𝘣𝘰𝘰𝘬  |
 <a href="http://t.me//anonnikkibot">𝘵𝘨</a>
 .𝘢𝘯𝘰𝘯<br>
-      <br>
- <img align="right" src="banner5.png" width="46%"><br>
-
+<br>
+ <img align="right" src="banner5.png" width="50%"><br>
 <br>
 <br>
-            <br>
+<br>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <p align="center"</p>
 𝘿𝙉𝙄
