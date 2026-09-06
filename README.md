@@ -13,7 +13,7 @@
 𝘰𝘳 𝘢𝘯𝘰𝘯 𝘰𝘱𝘵𝘪𝘰𝘯 ↓<br>
      <p align="right"</p>
 <a href="https://nikk1.atabook.org">𝘢𝘵𝘢</a>.𝘣𝘰𝘰𝘬  |
-<a href="http://t.me//https://anonaskbot?start=nikkkki">𝘵𝘨</a>
+<a href="http://t.me//https:anonaskbot?start=nikkkki">𝘵𝘨</a>
 .𝘢𝘯𝘰𝘯<br>
 <br>
  <img align="right" src="banner5.png" width="50%"><br>
