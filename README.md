@@ -16,15 +16,8 @@
 <a href="http://t.me/anonaskbot?start=nikkkki">𝘵𝘨</a>
 .𝘢𝘯𝘰𝘯<br>
 <br>
- <img align="right" src="banner5.png" width="50%"><br>
-<br>
-<br>
-<br>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <p align="center"</p>
-𝘿𝙉𝙄
-    <p align="left"</p>
-𝙪𝙣𝙙𝙚𝙧 𝟭𝟰 𝙮.𝙤., 𝙧𝙖𝙘𝙞𝙨𝙢, 𝙝𝙤𝙢𝙤𝙥𝙝𝙤𝙗𝙞𝙖, 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 -𝙥𝙝𝙞𝙡𝙞𝙖, 𝙖𝙗𝙡𝙚𝙞𝙨𝙩𝙨<br>
+     <br>
  <p align="center"><br>
   <a href="https://t.me/info1nikki">
  <img src="https://img.shields.io/badge/-000000?style=flat&logo=telegram&logoColor=white" width="10%">
@@ -33,8 +26,19 @@
    <a href="https://www.tiktok.com/@n11kk1">
  <img src="https://img.shields.io/badge/-000000?style=flat&logo=tiktok&logoColor=white" width="10%">
 <br>
+      <p align="center"</p>
+𝘿𝙉𝙄
+    <p align="left"</p>
+𝙪𝙣𝙙𝙚𝙧 𝟭𝟰 𝙮.𝙤., 𝙧𝙖𝙘𝙞𝙨𝙢, 𝙝𝙤𝙢𝙤𝙥𝙝𝙤𝙗𝙞𝙖, 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 -𝙥𝙝𝙞𝙡𝙞𝙖, 𝙖𝙗𝙡𝙚𝙞𝙨𝙩𝙨<br>
+    <br>
+    <br>
+    <br>
+    <br>
+ <br>
+      <br>
 <h2 align="center">⌒ ⌒   ⭑  ⌒ ⌒  ꒰  ⭑  ꒱  ⌒ ⌒ ⭑ ⌒ ⌒</h2>
 
+<br>
 <br>
 <p align="center">
   <img
