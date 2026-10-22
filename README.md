@@ -13,18 +13,9 @@
 𝘰𝘳 𝘢𝘯𝘰𝘯 𝘰𝘱𝘵𝘪𝘰𝘯 ↓<br>
      <p align="right"</p>
 <a href="https://nikk1.atabook.org">𝘢𝘵𝘢</a>.𝘣𝘰𝘰𝘬  |
-<a href="http://t.me/anonaskbot?start=nikkkki">𝘵𝘨</a>
-.𝘢𝘯𝘰𝘯<br>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
      <br>
- <p align="center"><br>
-  <a href="https://t.me/info1nikki">
- <img src="https://img.shields.io/badge/-000000?style=flat&logo=telegram&logoColor=white" width="10%">
-  <a href="https://discord.com/xwertiiy">
- <img src="https://img.shields.io/badge/-000000?style=flat&logo=discord&logoColor=white" width="10%">
-   <a href="https://www.tiktok.com/@n11kk1">
- <img src="https://img.shields.io/badge/-000000?style=flat&logo=tiktok&logoColor=white" width="10%">
 <br>
       <p align="center"</p>
 𝘿𝙉𝙄
@@ -36,6 +27,13 @@
     <br>
  <br>
       <br>
+         <br>
+         <br>
+         <br>
+         <br>
+         <br>
+         <br>
+     
 <h2 align="center">⌒ ⌒   ⭑  ⌒ ⌒  ꒰  ⭑  ꒱  ⌒ ⌒ ⭑ ⌒ ⌒</h2>
 
 <br>
