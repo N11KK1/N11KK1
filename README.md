@@ -25,17 +25,18 @@
     <br>
     <br>
     <br>
- <br>
+     <br>
+   <br>
+   <br>
+   <br>
+   <br>
+     <br>
       <br>
-         <br>
-         <br>
-         <br>
-         <br>
-         <br>
-         <br>
-     
+   
 <h2 align="center">⌒ ⌒   ⭑  ⌒ ⌒  ꒰  ⭑  ꒱  ⌒ ⌒ ⭑ ⌒ ⌒</h2>
-
+           <p align="center"><br>
+  <a href="https://t.me/infon1kk1">
+ <img src="https://img.shields.io/badge/telegram-e65c3a?style=for-the-badge&logo=telegram&color=000000&logoColor=white">
 <br>
 <br>
 <p align="center">
